@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+
+/* IDE Colors */
+.replit-ui-theme-root.dark {
+  --foreground-default: #f2f4f5 !important; /*Default Text Color*/
+  --background-root: #262527 !important; /*Background Color*/
+  --background-default: #2d2a2e !important; /*Tab Color*/
+  --background-higher: #373a3f !important; /*Buttons & Highlighted Line Colors*/
+  --accent-primary-dimmest: #49606b !important; /*Sidebar Selected Tab Color*/
+  --accent-primary-default: #cc7e7e !important; /*Username Color*/
+  --foreground-dimmest: #b8c5cf !important; /*Sidebar Button & Line Number Color*/
+}
+
+/* HTML Preview Background Color */
+iframe {
+  background-color: #7e838a !important;
+  position: relative;
+}
+
+/* Sidebar Styling */
+.side-nav-options {
+  background-color: #262527;
+  padding-right: 9px !important;
+}
+
+/*Sidebar Selected Item Color*/
+.active {
+  background-color: #463d3d !important;
+}
+
+/* Console & Shell Color */
+.jqconsole, .xterm-viewport {
+  background-color: #353036 !important;
+}
+
+/* </> Color (HTML) */
+.ͼv, .ͼ1c, .ͼ2g, .ͼ3b {
+  color: #999999 !important;
+}
+
+/* Element Color (HTML), Selector Color (CSS) */
+.ͼ14, .ͼ1l, .ͼ2p, .ͼ3k {
+  color: #ef7373 !important;
+}
+
+/* Attribute Color (HTML) */
+.ͼ13, .ͼ1k, .ͼ2o, .ͼ3j {
+  color: #f3d186 !important;
+}
+
+/* Comment Color */
+.ͼ11, .ͼ1i, .ͼ2m, .ͼ3h {
+  color: #7681a3 !important;
+}
+
+/* Data Color */
+.ͼz, .ͼ1g, .ͼ2k, .ͼ3f {
+  color: #82d184 !important;
+}
