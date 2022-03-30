@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Swello Replit Theme",
-  "version": "0.1.0",
-  "description": "Swello Replit Theme by Sam Cheng",
+  "name": "Replit Theme Template",
+  "version": "0.2.0",
+  "description": "Replit theme template by Sam Cheng",
  
   "content_scripts": [{
     "css": ["styles.css"],
